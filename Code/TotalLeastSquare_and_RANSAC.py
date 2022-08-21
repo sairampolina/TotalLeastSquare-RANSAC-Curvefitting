@@ -33,7 +33,7 @@ def extract_data():
 
     """
 
-    file_path="./data/linear_regression_dataset.csv"
+    file_path="../data/linear_regression_dataset.csv"
     
     
     data=open(file_path,'r')
